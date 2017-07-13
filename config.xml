@@ -2,13 +2,13 @@
 
  <widget xmlns = "http://wwww.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id = "com.phonegap.example10"
+   id = "com.phonegap.example13"
    version ="1.0.0">
    
  <name>app10 Carreras Universitarias :v</name>
  
  <description>
-  Aplicacion que informa sobre posibles carreras universitarias
+  Aplicacion que informa sobre las aplicaciones web
  </description>
  
  <author href="https://build.phonegap.com" email="jonathan.melchor.cbtis16@gmail.com">
